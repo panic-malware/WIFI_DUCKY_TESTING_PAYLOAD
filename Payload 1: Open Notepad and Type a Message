@@ -1,4 +1,5 @@
-<time2><GUI>r<time1><RET>
-<time1>notepad<time1><RET>
-<time2>Hello from WiFi Ducky!<time1><RET>
-This is an automated payload.<time1><RET>
+<time2><GUI>r
+<time2>notepad
+<time2><RET>
+<time2>Hello, this is a WiFi Ducky test!
+<time1>Payload executed successfully.<time1><RET>
