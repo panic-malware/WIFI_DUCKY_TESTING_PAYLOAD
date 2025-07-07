@@ -1,7 +1,7 @@
 <time2><CTRL><ESC>
 <time2>cmd
 <time2><RET>
-<time2>start microsoft-edge:https://www.google.com/search?q=wifi+ducky+payload+test
+<time2>color 0a
 <time1><RET>
-exit
+<time2>for /L %i in (1,0,2) do @echo %random% %random% %random%
 <time1><RET>
