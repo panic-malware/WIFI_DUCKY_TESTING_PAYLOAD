@@ -1,5 +1,9 @@
-<time2><GUI>r<time1><RET>
-<time1>cmd<time1><RET>
-<time1>cd Desktop<time1><RET>
-<time1>mkdir ducky_folder<time1><RET>
-<time1>exit<time1><RET>
+<time2><GUI>r
+<time2>cmd
+<time2><RET>
+<time2>cd OneDrive\Desktop
+<time1><RET>
+<time1>mkdir test_folder
+<time1><RET>
+<time1>exit
+<time1><RET>
