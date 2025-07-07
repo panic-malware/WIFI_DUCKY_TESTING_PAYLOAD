@@ -1,0 +1,4 @@
+<time2><GUI>r<time1><RET>
+<time1>powershell<time1><RET>
+<time2>systeminfo > $env:USERPROFILE\Desktop\sysinfo.txt<time1><RET>
+<time2>exit<time1><RET>
