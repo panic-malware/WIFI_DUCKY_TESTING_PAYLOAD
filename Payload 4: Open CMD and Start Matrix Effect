@@ -1,6 +1,0 @@
-<time2><GUI>r<time1><RET>
-<time1>cmd<time1><RET>
-<time1>color 0a<time1><RET>
-<time1>:start<time1><RET>
-<time1>echo %random% %random% %random% %random%<time1><RET>
-<time1>goto start<time1><RET>
